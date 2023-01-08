@@ -1,5 +1,3 @@
-<h1>This «thing» is under construction... 👨‍🎨</h1>
-
 [![Typing SVG](https://readme-typing-svg.demolab.com/?pause=500&lines=Hi+there!;Welcome+to+my+github+page+%F0%9F%91%8B%F0%9F%8F%BB)](https://git.io/typing-svg)
 
 <h3 align="center">I am interested in getting Junior Front End position.</h3>
@@ -11,6 +9,8 @@
 - 🤔 I’m looking for help with **finding more time in a single day**
 - 📫 How to reach me: **mr.volodymyr.marchuk@gmail.com**
 - ⚡ Fun fact: **I love what I do**
+
+---
 
 ### My stack and tools
 
