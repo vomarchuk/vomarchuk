@@ -6,7 +6,8 @@
 
 - 🔭 I’m currently working on [Sushi Store](https://project-food-service.netlify.app/)
 - 🌱 I’m currently learning **React,TS and NextJS**
-- 🤔 I’m looking for help with **finding more time in a single day**
+- 🌱 I’m currently deepening my knowledge in React,TS and NextJS.
+- I'm open to junior front end position. I am located in Warsaw, Poland.
 - 📫 How to reach me: **mr.volodymyr.marchuk@gmail.com**
 - ⚡ Fun fact: **I love what I do**
 
