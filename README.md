@@ -4,7 +4,7 @@
 
 ---
 
-- 🔭 I’m currently working on [Sushi Store](https://project-food-service.netlify.app/)(front-end) and (https://github.com/vomarchuk/food-service-API)(back-end)
+- 🔭 I’m currently working on [Sushi Store](https://project-food-service.netlify.app/) and [Sushi Store back-end](https://github.com/vomarchuk/food-service-API)
 - 🌱 I’m currently learning and deepening my knowledge **React,TS and NextJS**
 - I'm open to junior front end position. I am located in Warsaw, Poland.
 - 📫 How to reach me: **mr.volodymyr.marchuk@gmail.com**
