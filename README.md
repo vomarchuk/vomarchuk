@@ -4,7 +4,7 @@
 
 ---
 
-- 🔭 I’m currently working on[kiwi-center frontEnd](https://github.com/vomarchuk/kiwi-beauty-center) and [kiwi-center-REST-API back-end](https://github.com/vomarchuk/kiwi-center-REST-API)
+- 🔭 I’m currently working on[kiwi-center](https://github.com/vomarchuk/kiwi-beauty-center)frontEnd and [kiwi-center-REST-API](https://github.com/vomarchuk/kiwi-center-REST-API)back-end
 - 🌱 I’m currently learning and deepening my knowledge **React,TS and NextJS**
 - I'm open to junior front end position. I am located in Warsaw, Poland.
 - 📫 How to reach me: **mr.volodymyr.marchuk@gmail.com**
