@@ -3,10 +3,9 @@
 <h3 align="center">I am interested in getting Junior Front End position.</h3>
 
 ---
-
 - 🔭 I’m currently working on[kiwi-center (frontEnd)](https://github.com/vomarchuk/kiwi-beauty-center) and [kiwi-center-REST-API (back-end)](https://github.com/vomarchuk/kiwi-center-REST-API)
-- 🌱 I’m currently learning and deepening my knowledge **React,TS and NextJS**
-- I'm open to junior front end position. I am located in Warsaw, Poland.
+- 🌱 I’m currently learning and deepening my knowledge **React Native and NextJS**
+- I'm open to mid front end position. I am located in Warsaw, Poland.
 - 📫 How to reach me: **mr.volodymyr.marchuk@gmail.com**
 - ⚡ Fun fact: **I love what I do**
 
@@ -16,7 +15,7 @@
 
 <img align="left" alt="JavaScript" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
-<img align="left" alt="JavaScript" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
+<img align="left" alt="TypeScript" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
 
 <img align="left" alt="React" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 
