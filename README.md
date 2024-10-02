@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?pause=500&lines=Hi+there!;Welcome+to+my+github+page+%F0%9F%91%8B%F0%9F%8F%BB)](https://git.io/typing-svg)
 
-<h3 align="center">I am interested in getting Junior Front End position.</h3>
+<h3 align="center">I am interested in getting Mid Front End position.</h3>
 
 ---
 - 🔭 I’m currently working on[kiwi-center (frontEnd)](https://github.com/vomarchuk/kiwi-beauty-center) and [kiwi-center-REST-API (back-end)](https://github.com/vomarchuk/kiwi-center-REST-API)
