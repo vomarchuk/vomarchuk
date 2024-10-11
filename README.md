@@ -3,7 +3,7 @@
 <h3 align="center">I am interested in getting Mid Front End position.</h3>
 
 ---
-- 🔭 I’m currently working on[kiwi-center (frontEnd)](https://github.com/vomarchuk/kiwi-beauty-center) and [kiwi-center-REST-API (back-end)](https://github.com/vomarchuk/kiwi-center-REST-API)
+- 🔭 I’m currently working on[kiwi-astro (frontEnd)](https://github.com/vomarchuk/kiwi-astro) 
 - 🌱 I’m currently learning and deepening my knowledge **React Native and NextJS**
 - I'm open to mid front end position. I am located in Warsaw, Poland.
 - 📫 How to reach me: **mr.volodymyr.marchuk@gmail.com**
